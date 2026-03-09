@@ -1,0 +1,21 @@
+{
+  "name": "sayuri-loveroom",
+  "engines": {
+    "node": ">=18"
+  },
+  "version": "1.0.0",
+  "description": "Bot Discord Sayuri Loveroom - Système de liaisons amoureuses",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["discord", "bot"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "mongodb": "^6.10.0",
+    "dotenv": "^16.4.5"
+  }
+}
