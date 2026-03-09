@@ -1,0 +1,12 @@
+{
+  "guildId": "VOTRE_GUILD_ID",
+  "commandChannelId": "ID_DU_SALON_SPECIAL_OU_LES_COMMANDES_FONCTIONNENT",
+  "loungeCategoryId": "ID_DE_LA_CATEGORIE_POUR_LES_SALONS_COUPLES",
+  "rankRoles": {
+    "1": "ID_ROLE_RANG_1",
+    "2": "ID_ROLE_RANG_2",
+    "3": "ID_ROLE_RANG_3",
+    "4": "ID_ROLE_RANG_4",
+    "5": "ID_ROLE_RANG_5"
+  }
+}
